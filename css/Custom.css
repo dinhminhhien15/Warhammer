@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+html {
+  scroll-behavior: smooth;
+}
+
+.bg-nav{ background: rgba(0,0,0,0.8)}
+.text-head{
+	font-family: 'Dela Gothic One', sans-serif;
+	font-size: 30px;
+	color: rgba(193,24,27,1.00);
+	
+}
+.bg1 { 
+  background-image: url("../images/bg.jpg");
+  background-repeat : no-repeat;
+  background-attachment: fixed;
+  background-position: 10px 200px;
+}
+.bg-wh40k {
+	background-image: url( "../images/bg3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0;
+
+}
+.bg-wh41k {
+	background-image: url( "../images/bg4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0;
+
+}
+.bg-wh43k {
+	background-image: url( "../images/bg5.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0;
+
+}
+.img2 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+.footer {
+	background-color: black;
+}
